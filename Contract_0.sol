@@ -1,3 +1,2 @@
-17        return randomNumber;
-    }
+18    }
 }
