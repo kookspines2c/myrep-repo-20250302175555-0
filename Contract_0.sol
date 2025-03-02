@@ -1,5 +1,4 @@
-2
-contract MyToken_0 {
+3contract MyToken_0 {
     uint256 public randomNumber;
     string public message;
 
