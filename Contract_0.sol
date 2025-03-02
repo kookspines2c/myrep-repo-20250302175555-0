@@ -1,5 +1,4 @@
-3contract MyToken_0 {
-    uint256 public randomNumber;
+4    uint256 public randomNumber;
     string public message;
 
     constructor() {
